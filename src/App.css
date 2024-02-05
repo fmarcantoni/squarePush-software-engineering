@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+.App-canvas {
+  position: absolute;
+  left: 20px;
+  top: 120px;
+}
+
+.App-title {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+.scorecounter {
+  position: absolute;
+  top: 400px;
+  left: 640px;
+}
+
+.movecounter {
+  position: absolute;
+  top: 450px;
+  left: 640px;
+}
+
+.congratulatoryMessage{
+  position: absolute;
+  top: 250px;
+  left: 250px;
+}
+
+.upbutton {
+    position: absolute;
+    top: 100px;
+    left: 600px;
+ }
+
+.downbutton {
+  position: absolute;
+  top: 145px;
+  left: 595px;
+}
+
+.rightbutton {
+  position: absolute;
+  top: 123px;
+  left: 640px;
+}
+
+.leftbutton {
+position: absolute;
+top: 123px;
+left: 560px;
+}
+
+
+.resetbutton {
+  position: absolute;
+  top: 200px;
+  left: 500px;
+  }
+
+.removebutton {
+  position: absolute;
+  top: 200px;
+  left: 700px;    
+}
+  
+
