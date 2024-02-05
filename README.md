@@ -23,5 +23,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-### To see the game in action refer to this link:
+## To see the game in action refer to this link:
 https://filippomarcantoni.wixsite.com/portfolio-fmarcanto/portfolio-collections/my-portfolio/square-push-ninjase-software-engineering
